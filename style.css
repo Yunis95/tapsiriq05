@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+
+}
+
+.logo{
+    background: black;
+    color: white;
+    font-size: 50px;
+    border: 5px solid yellow;
+    border-radius: 30px;
+    
+    
+}
+
+.butun{
+    margin: 40px 0;
+    
+   
+}
+
+img{
+    width: 100%;
+    min-height: 230px;
+    max-height: 230px;
+}
+    
+
+.photo{
+    flex: 1;
+    padding: 15px;
+    
+}
+
+.orta{
+    display: flex;
+    width: 960px;
+    margin: auto;
+  
+}
+
